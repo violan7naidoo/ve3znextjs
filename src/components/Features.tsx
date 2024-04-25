@@ -44,8 +44,8 @@ export default function Features() {
                       <p className="text-gray-700 dark:text-gray-300 mt-2">
                         Testimonials add credibility, build trust, and influence
                         purchase decisions by showcasing positive experiences of
-                        past customers, reinforcing your brand's reliability and
-                        quality.
+                        past customers, reinforcing your brand&apos;s
+                        reliability and quality.
                       </p>
                     </div>
                   </li>
@@ -153,9 +153,9 @@ export default function Features() {
                         Competitive Advantage
                       </h3>
                       <p className="text-gray-700 dark:text-gray-300 mt-2">
-                        In today's digital age, having a modern website sets you
-                        apart from competitors who may have outdated or poorly
-                        designed websites. A visually appealing and
+                        In today&apos;s digital age, having a modern website
+                        sets you apart from competitors who may have outdated or
+                        poorly designed websites. A visually appealing and
                         user-friendly website can attract customers away from
                         competitors and position your brand as a leader in your
                         industry.
