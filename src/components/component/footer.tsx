@@ -59,7 +59,7 @@ export default function Footer() {
             <h2 className="font-bold tracking-tighter">Contact</h2>
             <div className="space-y-2">
               <p className="text-sm text-gray-500 dark:text-gray-400">
-                Have any questions? We're here to help.
+                Have any questions? We&apos;re here to help.
               </p>
               <p className="text-sm text-gray-500 dark:text-gray-400">
                 Email us at :

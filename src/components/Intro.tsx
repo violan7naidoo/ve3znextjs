@@ -61,7 +61,7 @@ export default function Banner() {
                   {" "}
                   digital advertising{" "}
                 </span>{" "}
-                we'll make sure your{" "}
+                we&apos;ll make sure your{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500 ">
                   {" "}
                   online{" "}
@@ -76,7 +76,7 @@ export default function Banner() {
                   {" "}
                   business.{" "}
                 </span>{" "}
-                Let's work together to elevate your brand!
+                Let&apos;s work together to elevate your brand!
               </p>
             </div>
             <div className="flex flex-col gap-2 min-[400px]:flex-row">
