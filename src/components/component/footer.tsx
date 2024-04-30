@@ -16,21 +16,21 @@ export default function Footer() {
             </Link>
             <Link
               className="font-medium text-sm transition-colors text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300"
-              href="#"
+              href="/features"
             >
-              About
+              Features
             </Link>
             <Link
               className="font-medium text-sm transition-colors text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300"
-              href="#"
+              href="/price"
             >
-              Services
+              Pricing
             </Link>
             <Link
               className="font-medium text-sm transition-colors text-gray-500 hover:text-gray-900 dark:text-gray-400 dark:hover:text-gray-300"
-              href="#"
+              href="/projetcs"
             >
-              Contact
+              Projects
             </Link>
           </div>
           <div className="space-y-4 flex flex-col">

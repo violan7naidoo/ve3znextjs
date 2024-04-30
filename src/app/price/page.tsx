@@ -5,6 +5,7 @@ import Navbar from "@/components/Navbar";
 import EcomPrice from "@/components/EcomPrice";
 import BusPrice from "@/components/BusPrice";
 import LogoPrice from "@/components/LogoPrice";
+import SeoPrice from "../../components/seo";
 import Footer from "../../components/component/footer";
 
 export default function Price() {
@@ -14,6 +15,7 @@ export default function Price() {
       <BusPrice />
       <EcomPrice />
       <LogoPrice />
+      <SeoPrice />
       <Footer />
     </div>
   );

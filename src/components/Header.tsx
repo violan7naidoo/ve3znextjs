@@ -8,7 +8,7 @@ export default function Header() {
   return (
     <header>
       {" "}
-      <section className="w-full py-12 md:py-24 lg:py-32  dark:bg-gray-800  bg-gray-950">
+      <section className="w-full py-12 md:py-24 lg:py-32  dark:bg-gray-800  bg-black">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center justify-center space-y-4 text-center">
             <div className="space-y-2">
@@ -85,13 +85,13 @@ export default function Header() {
                     <h3 className="text-xl  text-white font-bold transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105 hover:bg-grey-500 duration-300">
                       <span className="text-transparent bg-clip-text bg-gradient-to-r from-pink-500 to-purple-500 ">
                         {" "}
-                        Logo Design{" "}
+                        Software As A Service{" "}
                       </span>
                     </h3>
                     <p className="text-gray-200 dark:text-gray-400 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105 hover:bg-grey-500 duration-300">
-                      Brand Identity | Professionalism | Visual Representation |
-                      Marketing Tool | Emotional Connection | Trustworthiness |
-                      Visual Communication
+                      CRM & Pipeline Management| Surveys & Forms | Email
+                      Marketing | Bookings & Appointments | Tracking & Analytics
+                      | Workflow Automations | Unlimited Sales Funnels
                     </p>
                   </div>
                 </li>
@@ -120,7 +120,7 @@ export default function Header() {
                     </h3>
                     <p className="text-gray-200 dark:text-gray-400 transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-105 hover:bg-grey-500 duration-300">
                       Company Profile | Business Card Design | Email Signature
-                      Letterhead Design | Standard Logo Design| Company Flyers
+                      Letterhead Design | Standard Logo Design | Company Flyers
                     </p>
                   </div>
                 </li>

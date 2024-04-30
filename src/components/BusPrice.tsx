@@ -4,8 +4,8 @@ import React from "react";
 export default function BusPrice() {
   return (
     <header>
-      <section className="min-h-screen w-full py-12 bg-gradient-to-r from-gray-950 to-gray-900 dark:from-zinc-900 dark:to-zinc-800 flex items-center justify-center">
-        <div className="container px-4 md:px-6 text-centre bg-gray-950 ">
+      <section className="min-h-screen w-full py-12 bg-black dark:from-zinc-900 dark:to-zinc-800 flex items-center justify-center">
+        <div className="container px-4 md:px-6 text-centre bg-black ">
           <h1 className="mb-8 text-white text-3xl font-bold text-center">
             Business Websites
           </h1>

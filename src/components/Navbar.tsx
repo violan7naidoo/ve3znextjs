@@ -8,7 +8,7 @@ import { Button } from "./ui/button";
 
 export default function Navbar() {
   return (
-    <header className="px-4 lg:px-6 h-14 flex items-center bg-gray-950 ">
+    <header className="px-4 lg:px-6 h-14 flex items-center bg-black ">
       <Link className="flex items-center justify-center" href="/">
         <span className=" text-4xl text-white hover:underline underline-offset-4">
           Ve

@@ -4,8 +4,8 @@ import React from "react";
 export default function EcomPrice() {
   return (
     <header>
-      <section className="min-h-screen w-full py-12 bg-gray-950  dark:from-zinc-900 dark:to-zinc-800 flex items-center justify-center">
-        <div className="container bg-gray-950 px-4 md:px-6 text-centre">
+      <section className="min-h-screen w-full py-12 bg-black  dark:from-zinc-900 dark:to-zinc-800 flex items-center justify-center">
+        <div className="container bg-black px-4 md:px-6 text-centre">
           <h1 className="mb-8  text-white text-3xl font-bold text-center">
             E-Commerce Websites
           </h1>
@@ -27,15 +27,19 @@ export default function EcomPrice() {
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Mobile Responsiveness
+                    Shop | Cart | Checkout
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    1 Page Only
+                    Up to 30 Products
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Soial Media Integration
+                    Payfast Integration
+                  </li>
+                  <li className="flex items-center">
+                    <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
+                    Newest Products Feature
                   </li>
                 </ul>
               </div>
@@ -59,7 +63,7 @@ export default function EcomPrice() {
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Services & Gallary Page
+                    .co.za | .com | Domains
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
@@ -67,11 +71,11 @@ export default function EcomPrice() {
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Up to 4 Pages
+                    Up to 50 Products
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Contact Form
+                    Shipping Zone / Rates
                   </li>
                 </ul>
               </div>
@@ -98,7 +102,7 @@ export default function EcomPrice() {
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Up to 7 Pages
+                    Unlimited Pages
                   </li>
                   <li className="flex items-center">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
@@ -110,7 +114,7 @@ export default function EcomPrice() {
                   </li>
                   <li className="flex items-centesr">
                     <CheckIcon className="text-white text-xs bg-green-500 rounded-full mr-2 p-1" />
-                    Custom Design
+                    Unlimited Products
                   </li>
 
                   <li className="flex items-centesr">

@@ -7,16 +7,16 @@ import { Button } from "../components/ui/button";
 export default function Features() {
   return (
     <header>
-      <section className="w-full py-12 md:py-24 lg:py-32 bg-gradient-to-b from-gray-100 via-gray-200 to-gray-300 dark:bg-gray-800">
+      <section className="w-full py-12 md:py-24 lg:py-32 bg-black dark:bg-gray-800">
         <div className="container px-4 md:px-6">
           <div className="flex flex-col items-center justify-center space-y-8 text-center">
             <div className="max-w-lg mx-auto">
-              <h2 className="text-3xl md:text-5xl font-bold tracking-tighter text-gray-900 dark:text-gray-200 mt-4 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
-                Website Development Features
+              <h2 className="text-3xl md:text-5xl font-bold tracking-tighter text-white dark:text-gray-200 mt-4 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                Digital Marketing Features
               </h2>
-              <p className="max-w-xl mx-auto text-lg md:text-xl text-gray-700 dark:text-gray-300 mt-4">
-                Having a fast modern website is crucial for businesses and
-                individuals alike for several reasons.
+              <p className="max-w-xl mx-auto text-lg md:text-xl text-white dark:text-gray-300 mt-4">
+                Having a fast modern website and an online presence is crucial
+                for businesses and individuals alike for several reasons.
               </p>
             </div>
             <div className="mx-auto grid max-w-5xl items-center gap-6 py-12 lg:grid-cols-1 lg:gap-12">
@@ -173,6 +173,101 @@ export default function Features() {
                         that potential customers can learn about your products
                         or services, make purchases, or contact you at any time,
                         leading to increased sales and opportunities for growth.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        SEO
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        SEO elevates your website's visibility, driving organic
+                        traffic and enhancing online presence. By optimizing
+                        content, keywords, and technical elements, SEO ensures
+                        your site ranks higher on search engine results pages -
+                        SERPs - , attracting more visitors and boosting
+                        conversion rates.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        Google Listing & Reviews
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        Optimize your business on Google to boost local
+                        visibility and credibility. Manage customer reviews to
+                        build trust and engage with your audience, gaining a
+                        competitive edge in search results. Increase local
+                        visibility and attract more customers by ensuring your
+                        business appears prominently in Google search results.
+                        Actively managing reviews helps foster trust and
+                        loyalty, driving business growth and success.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        CRM Pipeline Management
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        Efficiently track and manage your customer relationship
+                        pipeline with CRM software. Streamline lead capture,
+                        nurture prospects, and track deals through every stage
+                        of the sales process, ensuring no opportunity is missed
+                        and maximizing revenue potential.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        Surveys and Forms
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        Empower your business with intuitive survey and form
+                        creation software. Easily gather valuable feedback,
+                        collect data, and engage with your audience through
+                        customizable surveys and forms. Streamline data
+                        collection processes, gain actionable insights, and
+                        drive informed decision-making to propel your business
+                        forward.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        Email Marketing
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        Revolutionize your marketing efforts with powerful email
+                        marketing software. Create personalized campaigns,
+                        automate workflows, and analyze performance metrics to
+                        engage your audience and drive conversions. Harness the
+                        full potential of email marketing to nurture leads,
+                        build customer relationships, and achieve your business
+                        goals efficiently and effectively.
+                      </p>
+                    </div>
+                  </li>
+                  <li>
+                    <div className="bg-white dark:bg-gray-900 rounded-lg p-6 shadow-md transition-transform duration-300 transform hover:translate-y-1 hover:scale-105">
+                      <h3 className="text-xl md:text-2xl font-bold text-gray-900 dark:text-gray-200 transition-colors duration-300 hover:text-gray-700 dark:hover:text-gray-400">
+                        Booking and Appointments
+                      </h3>
+                      <p className="text-gray-700 dark:text-gray-300 mt-2">
+                        Optimize your scheduling process with user-friendly
+                        booking and appointment software. Empower your
+                        representatives to efficiently manage appointments,
+                        streamline client interactions, and maximize
+                        productivity. Simplify booking processes, reduce
+                        administrative tasks, and enhance customer satisfaction,
+                        allowing your reps to focus on delivering exceptional
+                        service and driving business growth.
                       </p>
                     </div>
                   </li>
