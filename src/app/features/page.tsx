@@ -1,8 +1,8 @@
 import Image from "next/image";
-import { Button } from "../../components/button";
+import { Button } from "../../components/ui/button";
 import React from "react";
-import Navbar from "@/components/Navbar";
-import Feature from "@/components/Features";
+import Navbar from "../../components/Navbar";
+import Feature from "../../components/Features";
 import Footer from "../../components/component/footer";
 
 export default function Features() {

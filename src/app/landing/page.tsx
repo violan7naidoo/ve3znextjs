@@ -2,7 +2,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { Input } from "../../components/input";
-import { Button } from "../../components/button";
+import { Button } from "../../components/ui/button";
 import Price from "../price/page";
 import Bobby from "../../components/Header";
 import EcomPrice from "@/components/EcomPrice";
