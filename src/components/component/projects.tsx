@@ -23,7 +23,7 @@ export default function projects() {
               alt="Thumbnail"
               className="rounded-lg object-cover"
               height="225"
-              src="/sensory.png"
+              src="/Sensory.png"
               style={{
                 aspectRatio: "500/225",
                 objectFit: "cover",
@@ -95,7 +95,7 @@ export default function projects() {
               alt="Thumbnail"
               className="rounded-lg object-cover"
               height="225"
-              src="/sobaked2.png"
+              src="/Sobaked.png"
               style={{
                 aspectRatio: "500/225",
                 objectFit: "cover",
