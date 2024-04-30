@@ -182,12 +182,12 @@ export default function Features() {
                         SEO
                       </h3>
                       <p className="text-gray-700 dark:text-gray-300 mt-2">
-                        SEO elevates your website's visibility, driving organic
-                        traffic and enhancing online presence. By optimizing
-                        content, keywords, and technical elements, SEO ensures
-                        your site ranks higher on search engine results pages -
-                        SERPs - , attracting more visitors and boosting
-                        conversion rates.
+                        SEO elevates your website&apos;s visibility, driving
+                        organic traffic and enhancing online presence. By
+                        optimizing content, keywords, and technical elements,
+                        SEO ensures your site ranks higher on search engine
+                        results pages - SERPs - , attracting more visitors and
+                        boosting conversion rates.
                       </p>
                     </div>
                   </li>
