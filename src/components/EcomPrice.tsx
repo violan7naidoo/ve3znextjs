@@ -14,7 +14,7 @@ export default function EcomPrice() {
               <div>
                 <h3 className="text-2xl font-bold text-center">Basic</h3>
                 <div className="mt-4 text-center text-zinc-600 dark:text-zinc-400">
-                  <span className="text-4xl font-bold">R5000 </span>
+                  <span className="text-4xl font-bold">R5 000 </span>
                 </div>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">
@@ -54,7 +54,7 @@ export default function EcomPrice() {
               <div>
                 <h3 className="text-2xl font-bold text-center">Pro</h3>
                 <div className="mt-4 text-center text-zinc-600 dark:text-zinc-400">
-                  <span className="text-4xl font-bold">R9500</span>
+                  <span className="text-4xl font-bold">R9 500</span>
                 </div>
                 <ul className="mt-4 space-y-2">
                   <li className="flex items-center">

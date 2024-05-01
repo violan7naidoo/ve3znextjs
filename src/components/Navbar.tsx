@@ -39,9 +39,9 @@ export default function Navbar() {
         </Link>
         <Link
           className="text-sm font-medium text-white hover:underline underline-offset-4"
-          href="#"
+          href="/Saas"
         >
-          Contact
+          SaaS
         </Link>
       </nav>
     </header>
